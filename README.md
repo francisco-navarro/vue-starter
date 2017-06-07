@@ -1,4 +1,4 @@
-# vue-starter-sandboxes
+# vue-starter
 
 > A Vue.js project
 
